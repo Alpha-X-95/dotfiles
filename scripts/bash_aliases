@@ -1,3 +1,4 @@
+alias la="ls -a"
 alias ..="cd .."
 
 alias gst="git status "
@@ -7,5 +8,5 @@ alias gr="git rm "
 alias gl="git log --graph --decorate --pretty=oneline --abbrev-commit --all --date=local"
 alias gcm="git checkout master"
 alias gco="git checkout"
-alias gp="git pull"
+alias gp="git push"
 alias gb="git branch"
